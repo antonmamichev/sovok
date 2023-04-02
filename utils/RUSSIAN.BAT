@@ -1,0 +1,1 @@
+keyrus /full /scan=29e /lat=29e /alt=56e

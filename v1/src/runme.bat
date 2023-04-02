@@ -1,0 +1,1 @@
+P:\qbasic\qb sovok.BAS /L P:\qbasic\qb.qlb
